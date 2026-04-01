@@ -1,8 +1,6 @@
 📦 Installation
 git clone <your-repo>
 
-cd wallet
-
 go mod tidy
 
 go run main.go
